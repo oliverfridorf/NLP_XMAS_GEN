@@ -12,7 +12,7 @@ Performance_analysis.ipynb is used to generate songs from the trained model and 
 
 Created by
 Oliver Fridorf - 201907235
-Claes Eske Harboe Jensen - 201907300
+Claes Eske Harbo Jensen - 201907300
 Lasse Møller Bjørnskov - 201907292
 
 Aarhus University
